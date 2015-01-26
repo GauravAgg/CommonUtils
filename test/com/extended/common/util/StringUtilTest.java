@@ -8,7 +8,7 @@ import static org.junit.Assert.*;
 import org.junit.Test;
 
 /**
- * @author Gaurav Aggarwal
+ * @author Gaurav Agg.
  *
  */
 public class StringUtilTest {
