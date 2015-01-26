@@ -100,7 +100,7 @@ public class ArrayUtil extends ArrayUtils {
 		if (isNotEmpty(array)) {
 			List<E> result = new ArrayList<E>();
 			for (E val : array) {
-				if (comp.compare(forCompare, val) >= 0) {
+				if (comp.compare(forCompare, val) >= 0) {//Condition matches.
 					result.add(val);
 				}
 			}
